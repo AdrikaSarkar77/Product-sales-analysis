@@ -1,6 +1,9 @@
 # Product-sales-analysis
 Developed an interactive Sales &amp; Management Dashboard using Microsoft Excel , MySQL and Power BI to analyze sales performance, profit trends, customer insights, and business KPIs. Utilized Pivot Tables, Pivot Charts, Slicers, and data visualization techniques to transform raw data into actionable business insights.
 # Product Sales Analysis – Excel Dashboard & MySQL
+<img width="1377" height="783" alt="Screenshot 2026-11-14 130248" src="https://github.com/user-attachments/assets/e9e5d227-2da5-4a2d-8d9a-4062c0e11379" />
+
+
 
 ## Project overview
 This project analyzes product sales transactions using an Excel dashboard and MySQL queries.
